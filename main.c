@@ -56,7 +56,7 @@ int main(void) {
     print();
   }
 
-  printf("The END, bitches :) ");
+  printf("The END, :) ");
   
   return 0;
 }
